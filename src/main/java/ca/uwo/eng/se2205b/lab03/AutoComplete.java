@@ -7,13 +7,9 @@ import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.control.*;
-import javafx.stage.FileChooser;
 import javafx.stage.Stage;
 
-import javax.annotation.Nonnull;
-import java.io.File;
 import java.io.IOException;
-import java.nio.file.Paths;
 
 /**
  * Simple AutoComplete example to utilize a Trie.
@@ -22,9 +18,6 @@ public class AutoComplete extends Application {
     
     @FXML
     private ListView<String> options;
-
-    @FXML
-    private Button loadButton;
 
     @FXML
     private TextField input;
@@ -41,11 +34,13 @@ public class AutoComplete extends Application {
     private Trie prefixTrie;
 
     /**
-     * Load the {@link #prefixTrie} field with the values from {@code file}, the file has a single word per line.
-     * @param file Non-null file to read from
+     * Load the {@link #prefixTrie} field with the values from the provided dictionary.
+     * There is a single word per line.
      */
-    private void loadTrie(@Nonnull File file) {
+    private void loadTrie() {
         // TODO SE2205B
+
+        // InputStream io = AutoComplete.class.getResourceAsStream("/dictionary.txt");
     }
 
     /**
@@ -56,37 +51,23 @@ public class AutoComplete extends Application {
         // TODO SE2205B
     }
 
-    ////////////////////////////////////////
-    // DO NOT CHANGE BELOW
-    ////////////////////////////////////////
 
     @FXML
     protected void initialize() {
 
-        input.setOnAction(ev -> {
-            loadAutoComplete();
-        });
+        // TODO SE2205B
+
+        ////////////////////////////////////////
+        // DO NOT CHANGE BELOW
+        ////////////////////////////////////////
 
         resultCounter.valueProperty().addListener((obs, oldValue, newValue) -> {
             loadAutoComplete();
         });
 
         countLabel.setText("0");
-        loadButton.setOnAction(ev -> {
-            FileChooser fc = new FileChooser();
-            fc.setTitle("Choose Dictionary File");
-            fc.getExtensionFilters().add(new FileChooser.ExtensionFilter("Text Files", "*.txt"));
-            fc.setInitialDirectory(Paths.get(".").toFile());
 
-            File file = fc.showOpenDialog(loadButton.getScene().getWindow());
-
-            if (file != null) {
-                loadTrie(file);
-
-                input.setDisable(false);
-                options.setDisable(false);
-            }
-        });
+        loadTrie();
     }
 
     

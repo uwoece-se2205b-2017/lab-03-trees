@@ -20,6 +20,12 @@ public interface Trie {
      */
     boolean isEmpty();
 
+    /**
+     * Places a word into the Trie.
+     *
+     * @param word Non-null or empty word to insert into the Trie.
+     * @return {@code true} if the word was added
+     */
     boolean put(String word);
     
     /**
