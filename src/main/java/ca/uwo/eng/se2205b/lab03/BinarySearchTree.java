@@ -31,7 +31,7 @@ public class BinarySearchTree<E> implements Tree<E> {
             return null;
         }
 
-        @Nullable BinaryNode getParent() {
+        @Nullable BinaryNode<E> getParent() {
             return null;
         }
 
