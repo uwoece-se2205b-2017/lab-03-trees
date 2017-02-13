@@ -51,12 +51,12 @@ public class BinarySearchTree<E> implements Tree<E> {
         }
 
         @Override
-        public boolean isFull() {
+        public boolean isProper() {
             return false;
         }
 
         @Override
-        public boolean isComplete() {
+        public boolean isBalanced() {
             return false;
         }
 
@@ -102,12 +102,12 @@ public class BinarySearchTree<E> implements Tree<E> {
     }
 
     @Override
-    public boolean isFull() {
+    public boolean isProper() {
         return false;
     }
 
     @Override
-    public boolean isComplete() {
+    public boolean isBalanced() {
         return false;
     }
 

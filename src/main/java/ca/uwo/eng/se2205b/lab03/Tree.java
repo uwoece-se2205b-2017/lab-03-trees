@@ -30,16 +30,16 @@ interface TreeBase {
 
 
     /**
-     * Checks if the current tree is full. That is, every node has either 2 nodes or zero.
-     * @return {@code true} if the tree is full
+     * Checks if the current tree is proper. That is, every node has either 2 nodes or zero.
+     * @return {@code true} if the tree is proper
      */
-    boolean isFull();
+    boolean isProper();
 
     /**
-     * Checks if the current tree is complete. Every node's height is within at most 1 from it's sibling nodes.
-     * @return {@code true} if the tree is full
+     * Checks if the current tree is balanced. Every node's height is within at most 1 from it's sibling nodes.
+     * @return {@code true} if the tree is balanced
      */
-    boolean isComplete();
+    boolean isBalanced();
 }
 
 /**
