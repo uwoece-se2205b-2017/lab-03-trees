@@ -1,0 +1,1633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42e3c49e-223b-4f73-966e-c40c200daa7e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_annotations_3_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_21_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_jcip_jcip_annotations_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/lab3.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/lab3_main.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/lab3_test.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/ca/uwo/eng/se2205b/lab03/MarkingTests.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ca/uwo/eng/se2205b/lab03/BinarySearchTree.java" afterPath="$PROJECT_DIR$/src/main/java/ca/uwo/eng/se2205b/lab03/BinarySearchTree.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ca/uwo/eng/se2205b/lab03/LinkedTrie.java" afterPath="$PROJECT_DIR$/src/main/java/ca/uwo/eng/se2205b/lab03/LinkedTrie.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="RUBRIC.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RUBRIC.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="396">
+                <caret line="91" column="16" lean-forward="false" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinarySearchTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ca/uwo/eng/se2205b/lab03/BinarySearchTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkedTrie.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ca/uwo/eng/se2205b/lab03/LinkedTrie.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="81" column="9" lean-forward="true" selection-start-line="81" selection-start-column="9" selection-end-line="81" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="C:\Users\Husam\.gradle\wrapper\dists\gradle-3.1-all\ejgglywf033yp6s4x8ahmgm74\gradle-3.1" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3.1" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="lab3" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="lab3" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'lab3'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'lab3'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'lab3'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'lab3'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'lab3'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'lab3'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'lab3'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'lab3'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="C:/Lab 02_ OOP and Serialization - Husam/Ali, Syed(sali382)/submission-sali382" value="2974788788900" />
+        <entry key="C:/Lab 02_ OOP and Serialization - Husam/Aucoin, Peter(paucoin2)/submission-paucoin2" value="2974788792635" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ 003 Husam/Aucoin, Peter(paucoin2)/submission-paucoin2" value="2973043450360" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ 003 Husam/Campbell, Samantha(scamp94)/submission-scamp94" value="2973043459829" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ 003 Husam/Chappus, Trent(tchappus)/submission-tchappus" value="2973043458715" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ 003 Husam/Coates, Sheldon(scoates5)/submission-scoates5" value="2973043459926" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ 003 Husam/DiCicco, Brandon(bdicicco)/submission-bdicicco" value="2973043450280" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ 003 Husam/Domagala-Tang, Jimmy(jdomaga)/submission-jdomaga" value="2973043454169" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ 003 Husam/Eastman, Mitchell(meastma3)/submission-meastma3" value="2973043450240" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ 003 Husam/Esposto, Peter(pesposto)/submission-pesposto" value="2973043458804" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ 003 Husam/Fekete, Anthony(afekete3)/submission-afekete3" value="2973043453949" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ 003 Husam/Henlin, William(whenlin)/submission-whenlin" value="2973043454206" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ 003 Husam/Lepple, Kahlia(klepple)/submission-klepple" value="2973043459319" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ 003 Husam/Madruga, Quentin(qmadruga)/submission-qmadruga" value="2973043452826" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ 003 Husam/Mallabone, Samuel(smallabo)/submission-smallabo" value="2973043459426" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ 003 Husam/Medeiros, Luke(lmedeir2)/submission-lmedeir2" value="2973043450110" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ 003 Husam/Mohamed Nafeez, Fayadh(fmoham9)/submission-fmoham9" value="2973043462536" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ 003 Husam/Nicotera, Colton(cnicoter)/submission-cnicoter" value="2973043458263" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ 003 Husam/Patel, Jay(jpate83)/submission-jpate83" value="2973043454184" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ 003 Husam/Powell, Alexander(apowel24)/submission-apowel24" value="2973043456250" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ 003 Husam/Price, Matthew(mprice33)/submission-mprice33" value="2973043456628" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ 003 Husam/Whelan, Sarah Orlene Katharina(swhela2)/submission-swhela2" value="2973043450195" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 002 Husam/Ali, Syed(sali382)/submission-sali382" value="2973043208516" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 002 Husam/Chambers, Jacob(jchamb63)/submission-jchamb63" value="2973043210149" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 002 Husam/Chan, Matthew(mchan393)/submission-mchan393" value="2973723025674" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 002 Husam/Dawoud, Mustafa(mdawoud2)/submission-mdawoud2" value="2973723031183" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 002 Husam/Hawkins, Ryan(rhawkin9)/submission-rhawkin9" value="2973723028373" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 002 Husam/Lim, Brian(blim23)/submission-blim23" value="2973723028545" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 002 Husam/Lin, Forrest(flin48)/submission-flin48" value="2973723023786" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 002 Husam/Masud, Moiz(mmasud5)/submission-mmasud5" value="2973723031168" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 002 Husam/Medina, Gabriela(gmedina3)/submission-gmedina3" value="2973723021836" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 002 Husam/Ouy, Alan(aouy2)/submission-aouy2" value="2973723020776" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 002 Husam/Peake, Jedra(jpeake2)/submission-jpeake2" value="2973723023709" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 002 Husam/Pereira, Stephanie(sperei32)/submission-sperei32" value="2973723025706" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 002 Husam/Terryberry, Steven(sterrybe)/submission-sterrybe" value="2973723023880" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 002 Husam/Tolani, Yash(ytolani)/submission-ytolani" value="2973723032588" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 002 Husam/Voege, Peter(pvoege2)/submission-pvoege2" value="2973723025643" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 002 Husam/Whitla, Logan(lwhitla)/submission-lwhitla" value="2973723014240" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 002 Husam/Wilcox, Stuart(swilcox7)/submission-swilcox7" value="2973723028296" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 002 Husam/Yacob, Sebhat(syacob3)/submission-syacob3" value="2973723019170" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 002 Husam/Zaal, Omar(ozaal)/submission-ozaal" value="2973723019200" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 002 Husam/Zhou, Sam(szhou228)/submission-szhou228" value="2973723019107" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 002 Husam/Zhou, Zijing(zzhou273)/submission-zzhou273" value="2973723033400" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 003 Husam/Aucoin, Peter(paucoin2)/submission-paucoin2" value="2973723223178" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 003 Husam/Campbell, Samantha(scamp94)/submission-scamp94" value="2973723232352" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 003 Husam/Chappus, Trent(tchappus)/submission-tchappus" value="2973723224832" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 003 Husam/Coates, Sheldon(scoates5)/submission-scoates5" value="2973723232665" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 003 Husam/DiCicco, Brandon(bdicicco)/submission-bdicicco" value="2973723224566" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 003 Husam/Domagala-Tang, Jimmy(jdomaga)/submission-jdomaga" value="2973723224394" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 003 Husam/Eastman, Mitchell(meastma3)/submission-meastma3" value="2973723224786" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 003 Husam/Esposto, Peter(pesposto)/submission-pesposto" value="2973723224957" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 003 Husam/Fekete, Anthony(afekete3)/submission-afekete3" value="2973723228625" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 003 Husam/Henlin, William(whenlin)/submission-whenlin" value="2973723231261" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 003 Husam/Lepple, Kahlia(klepple)/submission-klepple" value="2973723233476" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 003 Husam/Madruga, Quentin(qmadruga)/submission-qmadruga" value="2973723232790" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 003 Husam/Mallabone, Samuel(smallabo)/submission-smallabo" value="2973723233538" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 003 Husam/Medeiros, Luke(lmedeir2)/submission-lmedeir2" value="2973723225223" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 003 Husam/Mohamed Nafeez, Fayadh(fmoham9)/submission-fmoham9" value="2973723233632" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 003 Husam/Nicotera, Colton(cnicoter)/submission-cnicoter" value="2973723225331" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 003 Husam/Patel, Jay(jpate83)/submission-jpate83" value="2973723233507" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 003 Husam/Powell, Alexander(apowel24)/submission-apowel24" value="2973723230606" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 003 Husam/Price, Matthew(mprice33)/submission-mprice33" value="2973723232290" />
+        <entry key="$PROJECT_DIR$/../../../Lab 01_ Lists and GUI Introduction - Section 003 Husam/Whelan, Sarah Orlene Katharina(swhela2)/submission-swhela2" value="2973723233289" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Ali, Syed(sali382)/submission-sali382" value="2978086905958" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Aucoin, Peter(paucoin2)/submission-paucoin2" value="2978086903554" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Campbell, Samantha(scamp94)/submission-scamp94" value="2978086911352" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Chahbar, Omar(ochahba)/submission-ochahba" value="2978086903567" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Chambers, Jacob(jchamb63)/submission-jchamb63" value="2978086903959" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Chan, Matthew(mchan393)/submission-mchan393" value="2978086907297" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Chappus, Trent(tchappus)/submission-tchappus" value="2978086907407" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Cheema, Davinderpal(dcheema6)/submission-dcheema6" value="2978086907285" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Coates, Sheldon(scoates5)/submission-scoates5" value="2978086902862" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Dawoud, Mustafa(mdawoud2)/submission-mdawoud2" value="2978086903314" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/DiCicco, Brandon(bdicicco)/submission-bdicicco" value="2978086903542" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Domagala-Tang, Jimmy(jdomaga)/submission-jdomaga" value="2978086903356" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Eastman, Mitchell(meastma3)/submission-meastma3" value="2978086907282" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Esposto, Peter(pesposto)/submission-pesposto" value="2978086907140" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Fekete, Anthony(afekete3)/submission-afekete3" value="2978086904732" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Hawkins, Ryan(rhawkin9)/submission-rhawkin9" value="2978086908407" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Henlin, William(whenlin)/submission-whenlin" value="2978086903324" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Lepple, Kahlia(klepple)/submission-klepple" value="2978086907157" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Lim, Brian(blim23)/submission-blim23" value="2978086903354" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Lin, Forrest(flin48)/submission-flin48" value="2978086902850" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Madruga, Quentin(qmadruga)/submission-qmadruga" value="2978086908428" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Mallabone, Samuel(smallabo)/submission-smallabo" value="2978086907157" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Masud, Moiz(mmasud5)/submission-mmasud5" value="2978086905842" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Medeiros, Luke(lmedeir2)/submission-lmedeir2" value="2978086908792" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Medina, Gabriela(gmedina3)/submission-gmedina3" value="2978086903976" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Mohamed Nafeez, Fayadh(fmoham9)/submission-fmoham9" value="2978086903324" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Nicotera, Colton(cnicoter)/submission-cnicoter" value="2978086908464" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Ouy, Alan(aouy2)/submission-aouy2" value="2978086908403" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Patel, Jay(jpate83)/submission-jpate83" value="2978086906659" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Paul, Jacob(jpaul68)/submission-jpaul68" value="2978086907140" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Peake, Jedra(jpeake2)/submission-jpeake2" value="2978086903324" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Pereira, Stephanie(sperei32)/submission-sperei32" value="2978086903355" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Powell, Alexander(apowel24)/submission-apowel24" value="2978086907527" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Price, Matthew(mprice33)/submission-mprice33" value="2978086908704" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/So, Kay(kso47)/submission-kso47" value="2978086903351" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Terryberry, Steven(sterrybe)/submission-sterrybe" value="2978086903935" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Tolani, Yash(ytolani)/submission-ytolani" value="2978086906025" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Voege, Peter(pvoege2)/submission-pvoege2" value="2978086907167" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Whelan, Sarah Orlene Katharina(swhela2)/submission-swhela2" value="2978086903366" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Whitla, Logan(lwhitla)/submission-lwhitla" value="2978086905841" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Wilcox, Stuart(swilcox7)/submission-swilcox7" value="2978086907162" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Yacob, Sebhat(syacob3)/submission-syacob3" value="2978086907177" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Zaal, Omar(ozaal)/submission-ozaal" value="2978086907364" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Zhou, Sam(szhou228)/submission-szhou228" value="2978086905936" />
+        <entry key="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Zhou, Zijing(zzhou273)/submission-zzhou273" value="2978086907182" />
+        <entry key="$PROJECT_DIR$/../../Ali, Syed(sali382)/submission-sali382" value="2979108624144" />
+        <entry key="$PROJECT_DIR$/../../Aucoin, Peter(paucoin2)/submission-paucoin2" value="2979108622248" />
+        <entry key="$PROJECT_DIR$/../../Campbell, Samantha(scamp94)/submission-scamp94" value="2979108622255" />
+        <entry key="$PROJECT_DIR$/../../Chahbar, Omar(ochahba)/submission-ochahba" value="2979108624048" />
+        <entry key="$PROJECT_DIR$/../../Chambers, Jacob(jchamb63)/submission-jchamb63" value="2979108624816" />
+        <entry key="$PROJECT_DIR$/../../Chan, Matthew(mchan393)/submission-mchan393" value="2979108623729" />
+        <entry key="$PROJECT_DIR$/../../Chappus, Trent(tchappus)/submission-tchappus" value="2979108623735" />
+        <entry key="$PROJECT_DIR$/../../Cheema, Davinderpal(dcheema6)/submission-dcheema6" value="2979108623679" />
+        <entry key="$PROJECT_DIR$/../../Coates, Sheldon(scoates5)/submission-scoates5" value="2979108623728" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (1)/Lab 00_ Java Introduction - Section 002 - Husam/Ali, Syed(sali382)/submission-sali382" value="2972201287189" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (1)/Lab 00_ Java Introduction - Section 002 - Husam/Chambers, Jacob(jchamb63)/submission-jchamb63" value="2972201287273" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (1)/Lab 00_ Java Introduction - Section 002 - Husam/Chan, Matthew(mchan393)/submission-mchan393" value="2972201288784" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (1)/Lab 00_ Java Introduction - Section 002 - Husam/Dawoud, Mustafa(mdawoud2)/submission-mdawoud2" value="2972201287325" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (1)/Lab 00_ Java Introduction - Section 002 - Husam/Hawkins, Ryan(rhawkin9)/submission-rhawkin9" value="2972201288776" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (1)/Lab 00_ Java Introduction - Section 002 - Husam/Lim, Brian(blim23)/submission-blim23" value="2972201287276" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (1)/Lab 00_ Java Introduction - Section 002 - Husam/Lin, Forrest(flin48)/submission-flin48" value="2972201288757" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (1)/Lab 00_ Java Introduction - Section 002 - Husam/Masud, Moiz(mmasud5)/submission-mmasud5" value="2972201288005" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (1)/Lab 00_ Java Introduction - Section 002 - Husam/Medina, Gabriela(gmedina3)/submission-gmedina3" value="2972201288751" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (1)/Lab 00_ Java Introduction - Section 002 - Husam/Ouy, Alan(aouy2)/submission-aouy2" value="2972201288754" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (1)/Lab 00_ Java Introduction - Section 002 - Husam/Peake, Jedra(jpeake2)/submission-jpeake2" value="2972201288729" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (1)/Lab 00_ Java Introduction - Section 002 - Husam/Pereira, Stephanie(sperei32)/submission-sperei32" value="2972201287977" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (1)/Lab 00_ Java Introduction - Section 002 - Husam/So, Kay(kso47)/submission-kso47" value="2972201288808" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (1)/Lab 00_ Java Introduction - Section 002 - Husam/Terryberry, Steven(sterrybe)/submission-sterrybe" value="2972201288746" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (1)/Lab 00_ Java Introduction - Section 002 - Husam/Tolani, Yash(ytolani)/submission-ytolani" value="2972201288778" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (1)/Lab 00_ Java Introduction - Section 002 - Husam/Voege, Peter(pvoege2)/submission-pvoege2" value="2972201289399" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (1)/Lab 00_ Java Introduction - Section 002 - Husam/Whitla, Logan(lwhitla)/submission-lwhitla" value="2972201289573" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (1)/Lab 00_ Java Introduction - Section 002 - Husam/Wilcox, Stuart(swilcox7)/submission-swilcox7" value="2972201288728" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (1)/Lab 00_ Java Introduction - Section 002 - Husam/Yacob, Sebhat(syacob3)/submission-syacob3" value="2972201290605" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (1)/Lab 00_ Java Introduction - Section 002 - Husam/Zaal, Omar(ozaal)/submission-ozaal" value="2972201287890" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (1)/Lab 00_ Java Introduction - Section 002 - Husam/Zhou, Sam(szhou228)/submission-szhou228" value="2972201288759" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (1)/Lab 00_ Java Introduction - Section 002 - Husam/Zhou, Zijing(zzhou273)/submission-zzhou273" value="2972201288747" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (2)/Lab 01_ Lists and GUI Introduction - Section 003 Husam/Aucoin, Peter(paucoin2)/submission-paucoin2" value="2972476544506" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (2)/Lab 01_ Lists and GUI Introduction - Section 003 Husam/Campbell, Samantha(scamp94)/submission-scamp94" value="2972476544572" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (2)/Lab 01_ Lists and GUI Introduction - Section 003 Husam/Chappus, Trent(tchappus)/submission-tchappus" value="2972476544503" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (2)/Lab 01_ Lists and GUI Introduction - Section 003 Husam/Coates, Sheldon(scoates5)/submission-scoates5" value="2972476544585" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (2)/Lab 01_ Lists and GUI Introduction - Section 003 Husam/Domagala-Tang, Jimmy(jdomaga)/submission-jdomaga" value="2972476544292" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (2)/Lab 01_ Lists and GUI Introduction - Section 003 Husam/Eastman, Mitchell(meastma3)/submission-meastma3" value="2972476544585" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (2)/Lab 01_ Lists and GUI Introduction - Section 003 Husam/Esposto, Peter(pesposto)/submission-pesposto" value="2972476544524" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (2)/Lab 01_ Lists and GUI Introduction - Section 003 Husam/Fekete, Anthony(afekete3)/submission-afekete3" value="2972476544137" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (2)/Lab 01_ Lists and GUI Introduction - Section 003 Husam/Henlin, William(whenlin)/submission-whenlin" value="2972476544583" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (2)/Lab 01_ Lists and GUI Introduction - Section 003 Husam/Lepple, Kahlia(klepple)/submission-klepple" value="2972476543989" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (2)/Lab 01_ Lists and GUI Introduction - Section 003 Husam/Mallabone, Samuel(smallabo)/submission-smallabo" value="2972476544536" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (2)/Lab 01_ Lists and GUI Introduction - Section 003 Husam/Medeiros, Luke(lmedeir2)/submission-lmedeir2" value="2972476544037" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (2)/Lab 01_ Lists and GUI Introduction - Section 003 Husam/Mohamed Nafeez, Fayadh(fmoham9)/submission-fmoham9" value="2972476544274" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (2)/Lab 01_ Lists and GUI Introduction - Section 003 Husam/Nicotera, Colton(cnicoter)/submission-cnicoter" value="2972476544272" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (2)/Lab 01_ Lists and GUI Introduction - Section 003 Husam/Patel, Jay(jpate83)/submission-jpate83" value="2972476544552" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (2)/Lab 01_ Lists and GUI Introduction - Section 003 Husam/Powell, Alexander(apowel24)/submission-apowel24" value="2972476544316" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (2)/Lab 01_ Lists and GUI Introduction - Section 003 Husam/Price, Matthew(mprice33)/submission-mprice33" value="2972476544557" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (2)/Lab 01_ Lists and GUI Introduction - Section 003 Husam/Whelan, Sarah Orlene Katharina(swhela2)/submission-swhela2" value="2972476543818" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (4)/Lab 01_ Lists and GUI Introduction - Section 002 Husam/Ali, Syed(sali382)/submission-sali382" value="2972567624745" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (4)/Lab 01_ Lists and GUI Introduction - Section 002 Husam/Chambers, Jacob(jchamb63)/submission-jchamb63" value="2972567624738" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (4)/Lab 01_ Lists and GUI Introduction - Section 002 Husam/Dawoud, Mustafa(mdawoud2)/submission-mdawoud2" value="2972567624718" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (4)/Lab 01_ Lists and GUI Introduction - Section 002 Husam/Hawkins, Ryan(rhawkin9)/submission-rhawkin9" value="2972567624700" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (4)/Lab 01_ Lists and GUI Introduction - Section 002 Husam/Lin, Forrest(flin48)/submission-flin48" value="2972567624127" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (4)/Lab 01_ Lists and GUI Introduction - Section 002 Husam/Masud, Moiz(mmasud5)/submission-mmasud5" value="2972567624800" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (4)/Lab 01_ Lists and GUI Introduction - Section 002 Husam/Medina, Gabriela(gmedina3)/submission-gmedina3" value="2972567624729" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (4)/Lab 01_ Lists and GUI Introduction - Section 002 Husam/Ouy, Alan(aouy2)/submission-aouy2" value="2972567624702" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (4)/Lab 01_ Lists and GUI Introduction - Section 002 Husam/Peake, Jedra(jpeake2)/submission-jpeake2" value="2972567624772" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (4)/Lab 01_ Lists and GUI Introduction - Section 002 Husam/Pereira, Stephanie(sperei32)/submission-sperei32" value="2972567624791" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (4)/Lab 01_ Lists and GUI Introduction - Section 002 Husam/Terryberry, Steven(sterrybe)/submission-sterrybe" value="2972567624740" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (4)/Lab 01_ Lists and GUI Introduction - Section 002 Husam/Tolani, Yash(ytolani)/submission-ytolani" value="2972567624688" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (4)/Lab 01_ Lists and GUI Introduction - Section 002 Husam/Voege, Peter(pvoege2)/submission-pvoege2" value="2972567624128" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (4)/Lab 01_ Lists and GUI Introduction - Section 002 Husam/Whitla, Logan(lwhitla)/submission-lwhitla" value="2972567624104" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (4)/Lab 01_ Lists and GUI Introduction - Section 002 Husam/Wilcox, Stuart(swilcox7)/submission-swilcox7" value="2972567624805" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (4)/Lab 01_ Lists and GUI Introduction - Section 002 Husam/Zaal, Omar(ozaal)/submission-ozaal" value="2972567624064" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (4)/Lab 01_ Lists and GUI Introduction - Section 002 Husam/Zhou, Sam(szhou228)/submission-szhou228" value="2972567624402" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download (4)/Lab 01_ Lists and GUI Introduction - Section 002 Husam/Zhou, Zijing(zzhou273)/submission-zzhou273" value="2972567624800" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download(2)/Lab 01_ Lists and GUI Introduction - Section 002 Husam/Ali, Syed(sali382)/submission-sali382" value="2972823140596" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download1/Lab 00_ Java Introduction - Section 003 - Husam/Aucoin, Peter(paucoin2)/submission-paucoin2" value="2971816699510" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download1/Lab 00_ Java Introduction - Section 003 - Husam/Campbell, Samantha(scamp94)/submission-scamp94" value="2971816697965" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download1/Lab 00_ Java Introduction - Section 003 - Husam/Chahbar, Omar(ochahba)/submission-ochahba" value="2971816696570" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download1/Lab 00_ Java Introduction - Section 003 - Husam/Chappus, Trent(tchappus)/submission-tchappus" value="2971816700591" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download1/Lab 00_ Java Introduction - Section 003 - Husam/Cheema, Davinderpal(dcheema6)/submission-dcheema6" value="2971816696795" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download1/Lab 00_ Java Introduction - Section 003 - Husam/Coates, Sheldon(scoates5)/submission-scoates5" value="2971816700601" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download1/Lab 00_ Java Introduction - Section 003 - Husam/DiCicco, Brandon(bdicicco)/submission-bdicicco" value="2971816697976" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download1/Lab 00_ Java Introduction - Section 003 - Husam/Domagala-Tang, Jimmy(jdomaga)/submission-jdomaga" value="2971816696864" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download1/Lab 00_ Java Introduction - Section 003 - Husam/Eastman, Mitchell(meastma3)/submission-meastma3" value="2971816696740" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download1/Lab 00_ Java Introduction - Section 003 - Husam/Esposto, Peter(pesposto)/submission-pesposto" value="2971816696456" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download1/Lab 00_ Java Introduction - Section 003 - Husam/Fekete, Anthony(afekete3)/submission-afekete3" value="2971816699088" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download1/Lab 00_ Java Introduction - Section 003 - Husam/Henlin, William(whenlin)/submission-whenlin" value="2971816696742" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download1/Lab 00_ Java Introduction - Section 003 - Husam/Lepple, Kahlia(klepple)/submission-klepple" value="2971816696748" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download1/Lab 00_ Java Introduction - Section 003 - Husam/Madruga, Quentin(qmadruga)/submission-qmadruga" value="2971816699807" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download1/Lab 00_ Java Introduction - Section 003 - Husam/Mallabone, Samuel(smallabo)/submission-smallabo" value="2971816699658" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download1/Lab 00_ Java Introduction - Section 003 - Husam/Medeiros, Luke(lmedeir2)/submission-lmedeir2" value="2971816696533" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download1/Lab 00_ Java Introduction - Section 003 - Husam/Mohamed Nafeez, Fayadh(fmoham9)/submission-fmoham9" value="2971816697964" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download1/Lab 00_ Java Introduction - Section 003 - Husam/Nicotera, Colton(cnicoter)/submission-cnicoter" value="2971816699629" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download1/Lab 00_ Java Introduction - Section 003 - Husam/Patel, Jay(jpate83)/submission-jpate83" value="2971816699310" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download1/Lab 00_ Java Introduction - Section 003 - Husam/Powell, Alexander(apowel24)/submission-apowel24" value="2971816696863" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download1/Lab 00_ Java Introduction - Section 003 - Husam/Price, Matthew(mprice33)/submission-mprice33" value="2971816696579" />
+        <entry key="$PROJECT_DIR$/../../../bulk_download1/Lab 00_ Java Introduction - Section 003 - Husam/Whelan, Sarah Orlene Katharina(swhela2)/submission-swhela2" value="2971816697789" />
+        <entry key="$USER_HOME$/lab-00-introduction" value="2969261382583" />
+        <entry key="$USER_HOME$/lab-01-lists-gui-introduction-Nava2" value="2970925301880" />
+        <entry key="$USER_HOME$/lab-01-lists-gui-introduction-jakechambers12" value="2977204875532" />
+        <entry key="$USER_HOME$/sakai-github-education-marking-helper/lab-01-lists-gui-introduction-CanadianThunder" value="2976656511525" />
+        <entry key="$USER_HOME$/sakai-github-education-marking-helper/lab-01-lists-gui-introduction-dcheema6" value="2974361942944" />
+        <entry key="$USER_HOME$/sakai-github-education-marking-helper/lab-01-lists-gui-introduction-jakechambers12" value="2977001724196" />
+        <entry key="$USER_HOME$/sakai-github-education-marking-helper/lab-01-lists-gui-introduction-jakepaul" value="2974782066104" />
+        <entry key="$USER_HOME$/sakai-github-education-marking-helper/lab-02-object-oriented-programming-CanadianThunder" value="2976651696306" />
+        <entry key="$USER_HOME$/sakai-github-education-marking-helper/lab-02-object-oriented-programming-Nava2" value="2974452454160" />
+        <entry key="$USER_HOME$/sakai-github-education-marking-helper/lab-03-trees-Nava2" value="2974452397602" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="lab3" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/announce" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/antlr" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/base-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/base-services-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/build-comparison" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/build-init" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/cli" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/code-quality" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/composite-builds" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/dependency-management" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/diagnostics" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/ear" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/ide" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/ide-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/ide-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/installation-beacon" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/internal-android-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/internal-integ-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/internal-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/internal-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/ivy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/jacoco" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/javascript" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/jetty" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/jvm-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/language-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/language-java" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/language-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/language-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/language-scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/launcher" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/logging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/maven" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/messaging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/model-core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/model-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/open-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/osgi" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/platform-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/platform-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/platform-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/platform-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/plugin-development" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/plugin-use" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/plugins" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/process-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/publish" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/reporting" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/resources" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/resources-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/resources-s3" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/resources-sftp" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/signing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/task-cache-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/test-kit" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/testing-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/testing-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/testing-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/tooling-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/tooling-api-builders" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/ui" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/src/wrapper" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/ant-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/ant-launcher-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-base-services-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-base-services-groovy-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-cli-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-core-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-docs-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-installation-beacon-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-jvm-services-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-launcher-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-logging-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-messaging-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-model-core-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-model-groovy-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-native-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-open-api-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-process-services-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-resources-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-script-kotlin-0.3.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-tooling-api-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-ui-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/gradle-wrapper-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/groovy-all-2.4.7.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-announce-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-antlr-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-build-comparison-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-build-init-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-code-quality-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-composite-builds-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-dependency-management-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-diagnostics-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-ear-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-ide-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-ide-native-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-ide-play-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-ivy-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-jacoco-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-javascript-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-jetty-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-language-groovy-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-language-java-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-language-jvm-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-language-native-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-language-scala-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-maven-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-osgi-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-platform-base-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-platform-jvm-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-platform-native-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-platform-play-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-plugin-development-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-plugin-use-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-plugins-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-publish-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-reporting-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-resources-http-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-resources-s3-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-resources-sftp-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-scala-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-signing-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-task-cache-http-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-test-kit-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-testing-base-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-testing-jvm-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-testing-native-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/gradle-tooling-api-builders-3.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.1-all/ejgglywf033yp6s4x8ahmgm74/gradle-3.1/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/ca/uwo/eng/se2205b/lab03/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/RUBRIC.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="submission-mdawoud2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="submission-mdawoud2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="submission-mdawoud2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="submission-mdawoud2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab03" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="submission-mdawoud2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="submission-mdawoud2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="submission-mdawoud2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="submission-mdawoud2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="submission-mdawoud2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="submission-mdawoud2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab03" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="submission-mdawoud2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="submission-mdawoud2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab03" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tree.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Lab 02_ OOP and Serialization - Husam/Domagala-Tang, Jimmy(jdomaga)/submission-jdomaga" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Husam\Downloads\Lab 03_ Trees - Husam\Dawoud, Mustafa(mdawoud2)\submission-mdawoud2\src\main\java\ca\uwo\eng\se2205b\lab03" />
+      <recent name="C:\Users\Husam\Downloads\Lab 03_ Trees - Husam - Copy\Dawoud, Mustafa(mdawoud2)\submission-mdawoud2\src\test\java\ca\uwo\eng\se2205b\lab03" />
+      <recent name="C:\Users\Husam\Downloads\Lab 03_ Trees - Husam\Dawoud, Mustafa(mdawoud2)\submission-mdawoud2\src\test\java\ca\uwo\eng\se2205b\lab03" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Husam\Downloads\Lab 03_ Trees - Husam\Dawoud, Mustafa(mdawoud2)\submission-mdawoud2\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MarkingTests">
+    <configuration default="false" name="MarkingTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ca.uwo.eng.se2205b.lab03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="lab3_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ca.uwo.eng.se2205b.lab03" />
+      <option name="MAIN_CLASS_NAME" value="ca.uwo.eng.se2205b.lab03.MarkingTests" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="AutoComplete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ca.uwo.eng.se2205b.lab03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ca.uwo.eng.se2205b.lab03.AutoComplete" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="lab3_main" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="BinarySearchTreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ca.uwo.eng.se2205b.lab03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="lab3_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ca.uwo.eng.se2205b.lab03" />
+      <option name="MAIN_CLASS_NAME" value="ca.uwo.eng.se2205b.lab03.BinarySearchTreeTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="TrieTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ca.uwo.eng.se2205b.lab03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="lab3_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ca.uwo.eng.se2205b.lab03" />
+      <option name="MAIN_CLASS_NAME" value="ca.uwo.eng.se2205b.lab03.TrieTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="lab3" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.MarkingTests" />
+      <item index="1" class="java.lang.String" itemvalue="Application.AutoComplete" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.BinarySearchTreeTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TrieTest" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.MarkingTests" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TrieTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.BinarySearchTreeTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.AutoComplete" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42e3c49e-223b-4f73-966e-c40c200daa7e" name="Default" comment="" />
+      <created>1489641025398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1489641025398</updated>
+      <workItem from="1489641028232" duration="350000" />
+      <workItem from="1490054114597" duration="178000" />
+      <workItem from="1490054519767" duration="104000" />
+      <workItem from="1490054805629" duration="869000" />
+      <workItem from="1490316227927" duration="340000" />
+      <workItem from="1490316631382" duration="931000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BinarySearchTreeTest - 2017.03.23 at 17h 54m 14s.xml">
+      <configuration name="BinarySearchTreeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MarkingTests - 2017.03.23 at 17h 50m 47s.xml">
+      <configuration name="MarkingTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MarkingTests - 2017.03.23 at 17h 53m 17s.xml">
+      <configuration name="MarkingTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MarkingTests - 2017.03.23 at 17h 54m 24s.xml">
+      <configuration name="MarkingTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MarkingTests - 2017.03.23 at 17h 59m 55s.xml">
+      <configuration name="MarkingTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MarkingTests - 2017.03.23 at 18h 00m 05s.xml">
+      <configuration name="MarkingTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MarkingTests - 2017.03.23 at 18h 03m 30s.xml">
+      <configuration name="MarkingTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MarkingTests - 2017.03.23 at 18h 03m 44s.xml">
+      <configuration name="MarkingTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TrieTest - 2017.03.15 at 22h 13m 16s.xml">
+      <configuration name="TrieTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TrieTest - 2017.03.23 at 17h 54m 18s.xml">
+      <configuration name="TrieTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2772000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39590445" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26928896" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3993174" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/RUBRIC.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1547">
+            <caret line="91" column="16" lean-forward="false" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RUBRIC.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1547">
+            <caret line="91" column="16" lean-forward="false" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ca/uwo/eng/se2205b/lab03/MarkingTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RUBRIC.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1547">
+            <caret line="91" column="16" lean-forward="false" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ca/uwo/eng/se2205b/lab03/MarkingTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RUBRIC.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1547">
+            <caret line="91" column="16" lean-forward="false" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ca/uwo/eng/se2205b/lab03/MarkingTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RUBRIC.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ca/uwo/eng/se2205b/lab03/MarkingTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uwo/eng/se2205b/lab03/LinkedTrie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="81" column="9" lean-forward="true" selection-start-line="81" selection-start-column="9" selection-end-line="81" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/uwo/eng/se2205b/lab03/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RUBRIC.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="396">
+            <caret line="91" column="16" lean-forward="false" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
